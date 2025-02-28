@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
             if (pesoStr.isNotEmpty())
             val alturaQ2 = altura * altura
             val resultado = pesoStr / alturaQ2
-            println("José Carlos" + resultado)
+            println("José Carlos" + resultado )
         }
 
 

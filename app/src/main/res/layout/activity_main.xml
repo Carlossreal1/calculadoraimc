@@ -34,7 +34,7 @@
             android:id="@+id/edt_altura"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Wat is je lengte ex: 1.70"
+            android:hint="Wat is je lengte ex: 1.70 "
             android:inputType="numberDecimal" />
     </com.google.android.material.textfield.TextInputLayout>
 
