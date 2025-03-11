@@ -14,7 +14,8 @@
         android:layout_height="wrap_content"
         android:text="23,66"
         android:textSize="52sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:maxLength="5"/>
 
     <TextView
         android:id="@+id/tv_classificacao_label"
