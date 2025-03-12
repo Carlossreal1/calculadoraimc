@@ -52,7 +52,7 @@
             android:layout_marginBottom="60dp"
             android:maxLength="5"
             android:textColor="@color/white"
-            android:text="23,66"
+            android:text="23,67"
             android:textSize="64sp"
             android:textStyle="bold" />
 
