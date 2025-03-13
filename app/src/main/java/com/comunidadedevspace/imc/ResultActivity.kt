@@ -23,15 +23,15 @@ class ResultActivity : AppCompatActivity() {
         var classificacao: String? = null
 
         if(result <= 18.5f) {
-            classificacao = "MAGREZA"
+            classificacao = "MAGERTE"
         }else if (result > 18.5f && result <= 24.9f){
-            classificacao = "NORMAL"
+            classificacao = "NORMAAL"
         }else if (result> 25f && result <= 29.9f){
-            classificacao = "SOBREPESO"
+            classificacao = "OVERGEWICHT"
         }else if (result > 30f && result <= 39.9f){
             classificacao ="OBESIDADE"
         }else {
-            classificacao = "OBESIDADE GRAVE"
+            classificacao = "ERNSTIGE OBESITAS"
         }
 
         tvClassificacao.text = classificacao
