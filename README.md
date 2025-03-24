@@ -4,7 +4,7 @@ Trata-se de um aplicativo nativo para Android, desenvolvido em Kotlin, cuja prin
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 <img src="https://github.com/user-attachments/assets/2dbf0a11-3ce0-4b47-9321-b65bfa9b7847" width=260/> <img src="https://github.com/user-attachments/assets/ae8aaf6f-4907-49cf-865e-b96e97c52bd2" width=260/>
-Screenshots
+
 
 
 ## Tecnologias
