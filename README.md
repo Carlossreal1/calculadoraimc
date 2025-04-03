@@ -3,8 +3,7 @@ It is a native Android application, developed in Kotlin, whose main functionalit
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/user-attachments/assets/2dbf0a11-3ce0-4b47-9321-b65bfa9b7847" width=260/> <img src="https://github.com/user-attachments/assets/ae8aaf6f-4907-49cf-865e-b96e97c52bd2" width=260/>
-
+<img src="https://github.com/user-attachments/assets/f04f1cc7-f5f0-4400-b14b-614485a1452b" width=260/](https://github.com/user-attachments/assets/488905f7-8b34-4d1e-a550-9b5ea04425a2)> <img src="https://github.com/user-attachments/assets/26bc294e-4ad1-46ec-ae97-00af8e37aa55" width=260/>
 
 
 ## Tecnologias
