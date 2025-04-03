@@ -1,5 +1,5 @@
-# IMC Calculator
-Trata-se de um aplicativo nativo para Android, desenvolvido em Kotlin, cuja principal funcionalidade é calcular o IMC e exibir o resultado na próxima tela.
+# BMI Calculator
+It is a native Android application, developed in Kotlin, whose main functionality is to calculate the BMI and display the result on the next screen.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
